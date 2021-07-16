@@ -84,3 +84,11 @@ int main()
 
     return 0;
 }
+
+
+/*
+Method 2:-
+Time complexity : O(n * d) 
+Auxiliary Space : O(1)
+
+*/
