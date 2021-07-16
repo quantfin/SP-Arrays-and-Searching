@@ -1,11 +1,11 @@
 //Let's wirte a function roate(arr[],d,n) that rotates arr[] of size n by d elements.
 
-// where d = no of roatation , n = no of elements
+// where d = no of rotation , n = no of elements
 
 /* 
 Method 1 (using temp array)
 
-Input arr[] = [1,2,3,4,5,6,7,8,9] , d = 2, and n=7
+Input arr[] = [1,2,3,4,5,6,7,8,9] , d = 2, and n=9
 1) store the first d elements in a temp array
 
     temp[] = [1,2]
